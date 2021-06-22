@@ -15,40 +15,40 @@
 ## Document
 
 <details>
-    <summary> Wireframe</summary>
-    <ul>
+    <summary> Wireframe </summary>
+    
 ![ProjectList.png](docs/Wireframe/ProjectList.png)
 ![ProjectDetail.png](docs/Wireframe/ProjectDetail.png)
-![Test Detail.png](docs/Wireframe/Test Detail.png)
+![TestDetail.png](docs/Wireframe/Test Detail.png)
 ![TestJobList.png](docs/Wireframe/TestJobList.png)
-    </ul>
+    
 </details>
 <details>
     <summary> Architecture </summary>
-    <ul>
+ 
 ![architecture.png](docs/Architecture/architecture.png)
-    </ul>
+
 </details>
 <details>
     <summary> Sequence Diagram </summary>
-    <ul>
+
 ![Test Data Collect](docs/Sequence_Diagram/Test Data Collect.png)
 ![Report Select](docs/Sequence_Diagram/Report Select.png)
-    </ul>
+
 </details>
 
 <details>
     <summary> Milestone</summary>
-    <ul>
+
 ![MileStone](docs/MileStone/MileStone.png)
-    </ul>
+
 </details>
 
 <details>
     <summary> ERD Diagram</summary>
-    <ul>
+    
 ![erd](docs/ERD_diagram/erd.png)
-    </ul>
+    
 </details>
 
 
