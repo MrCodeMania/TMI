@@ -16,24 +16,24 @@
 
 <details>
     <summary> Wireframe </summary>
-    
+
 ![ProjectList.png](docs/Wireframe/ProjectList.png)
 ![ProjectDetail.png](docs/Wireframe/ProjectDetail.png)
-![TestDetail.png](docs/Wireframe/Test Detail.png)
+![TestDetail.png](docs/Wireframe/TestDetail.png)
 ![TestJobList.png](docs/Wireframe/TestJobList.png)
     
 </details>
 <details>
     <summary> Architecture </summary>
- 
+
 ![architecture.png](docs/Architecture/architecture.png)
 
 </details>
+
 <details>
     <summary> Sequence Diagram </summary>
-
-![Test Data Collect](docs/Sequence_Diagram/Test Data Collect.png)
-![Report Select](docs/Sequence_Diagram/Report Select.png)
+![TestDataCollect](docs/Sequence_Diagram/TestDataCollect.png)
+![ReportSelect](docs/Sequence_Diagram/ReportSelect.png)
 
 </details>
 
@@ -46,7 +46,7 @@
 
 <details>
     <summary> ERD Diagram</summary>
-    
+
 ![erd](docs/ERD_diagram/erd.png)
     
 </details>
