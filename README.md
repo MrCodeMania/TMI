@@ -32,6 +32,7 @@
 
 <details>
     <summary> Sequence Diagram </summary>
+  
 ![TestDataCollect](docs/Sequence_Diagram/TestDataCollect.png)
 ![ReportSelect](docs/Sequence_Diagram/ReportSelect.png)
 
