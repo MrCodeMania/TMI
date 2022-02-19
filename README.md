@@ -4,9 +4,10 @@
 
 - [TMI Notion](https://www.notion.so/longnh214/d13c839d33b94377b138427b4d743a7a?v=4ba79c8783a9492c864e3f640ead7cde)
 - [TMI UCC](https://youtu.be/3215TBTZJ1I)
+
 ## 프로젝트 개요
 
-- **진행기간** : 2021.04.12 ~ (ing)
+- **진행기간** : 2021.04.12 ~ 2021.05.21
 - **만든이** : 강세준, 김영록, 백현오, 이병희, 전원표, 최낙훈
 - **기획 배경** : 
   - 테스트 자동화란, 테스트 과정 일부 또는 전체를 수작업이 아닌 자동화된 프로그램을 통해서 수행하는 기법
@@ -15,40 +16,41 @@
 ## Document
 
 <details>
-    <summary> Wireframe</summary>
-    <ul>
+    <summary> Wireframe </summary>
+
 ![ProjectList.png](docs/Wireframe/ProjectList.png)
 ![ProjectDetail.png](docs/Wireframe/ProjectDetail.png)
-![Test Detail.png](docs/Wireframe/Test Detail.png)
+![TestDetail.png](docs/Wireframe/TestDetail.png)
 ![TestJobList.png](docs/Wireframe/TestJobList.png)
-    </ul>
+    
 </details>
 <details>
     <summary> Architecture </summary>
-    <ul>
+
 ![architecture.png](docs/Architecture/architecture.png)
-    </ul>
+
 </details>
+
 <details>
     <summary> Sequence Diagram </summary>
-    <ul>
-![Test Data Collect](docs/Sequence_Diagram/Test Data Collect.png)
-![Report Select](docs/Sequence_Diagram/Report Select.png)
-    </ul>
+  
+![TestDataCollect](docs/Sequence_Diagram/TestDataCollect.png)
+![ReportSelect](docs/Sequence_Diagram/ReportSelect.png)
+
 </details>
 
 <details>
     <summary> Milestone</summary>
-    <ul>
+
 ![MileStone](docs/MileStone/MileStone.png)
-    </ul>
+
 </details>
 
 <details>
     <summary> ERD Diagram</summary>
-    <ul>
+
 ![erd](docs/ERD_diagram/erd.png)
-    </ul>
+    
 </details>
 
 
